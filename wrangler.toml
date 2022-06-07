@@ -1,0 +1,6 @@
+name = "application_task"
+type = "javascript"
+account_id = "6b744ad38dfe7e15fc7c587bfe0da560"
+workers_dev = true
+route = ""
+zone_id = ""
